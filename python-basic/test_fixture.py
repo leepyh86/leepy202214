@@ -5,7 +5,7 @@
 # @author: leepy cham
 
 import  pytest
-
+import yaml
 
 @pytest.fixture()
 def login():
@@ -22,3 +22,13 @@ class TestFixture:
     @pytest.mark.usefixtures("login")
     def test_fix(self):
         print("hello ")
+
+    def test_yaml_demo(self):
+        file = yaml.safe_load(open("datas/data.yaml"))
+        print(file['book']['history'][0])
+
+
+
+
+
+
