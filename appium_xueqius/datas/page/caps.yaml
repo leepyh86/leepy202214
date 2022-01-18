@@ -1,0 +1,12 @@
+desirecaps:
+  platformName: "android"
+  deviceName: "1060dc500409"
+  appPackage: "com.xueqiu.android"
+  appActivity: ".view.WelcomeActivityAlias"
+  noReset: True
+  skipServerInstallation: True
+  skipDeviceInitialization: True
+
+server:
+  ip: localhost
+  port: 4723

@@ -1,0 +1,9 @@
+goto_market:
+  - by: xpath
+    locator: "//*[@resource-id='com.xueqiu.android:id/title_text'][@text='视频']"
+    action: click
+
+
+
+
+

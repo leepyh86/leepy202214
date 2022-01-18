@@ -1,0 +1,423 @@
+** Error: Unknown option: --pac-syskeys
+usage: monkey [-p ALLOWED_PACKAGE [-p ALLOWED_PACKAGE] ...]
+              [-c MAIN_CATEGORY [-c MAIN_CATEGORY] ...]
+              [--ignore-crashes] [--ignore-timeouts]
+              [--ignore-security-exceptions]
+              [--monitoargs: [-p, com.xueqiu.android, --pct-touch, 30, --pct-motion, 20, --pct-nav, 30, --pac-syskeys, 20, -v, --throttle, 500, 400]
+ arg: "-p"
+ arg: "com.xueqiu.android"
+ arg: "--pct-touch"
+ arg: "30"
+ arg: "--pct-motion"
+ arg: "20"
+ arg: "--pct-nav"
+ arg: "30"
+ arg: "--pac-syskeys"
+ arg: "20"
+ arg: "-v"
+ arg: "--throttle"
+ arg: "500"
+ arg: "400"
+data="com.xueqiu.android"
+arg="--pct-touch" mCurArgData="null" mNextArg=3 argwas="--pct-touch" nextarg="30"
+data="30"
+arg="--pct-motion" mCurArgData="null" mNextArg=5 argwas="--pct-motion" nextarg="20"
+data="20"
+arg="--pct-nav" mCurArgData="null" mNextArg=7 argwas="--pct-nav" nextarg="30"
+data="30"
+arg="--pac-syskeys" mCurArgData="null" mNextArg=9 argwas="--pac-syskeys" nextarg="20"
+** Error: Unknown option: --pac-syskeys
+usage: monkey [-p ALLOWED_PACKAGE [-p ALLOWED_PACKAGE] ...]
+              [-c MAIN_CATEGORY [-c MAIN_CATEGORY] ...]
+              [--ignore-crashes] [--ignore-timeouts]
+              [--ignore-security-exceptions]
+              [--monitor-native-crashes] [--ignore-native-crashes]
+              [--kill-process-after-error] [--hprof]
+              [--match-description TEXT]
+              [--pct-touch PERCENT] [--pct-motion PERCENT]
+              [--pct-trackball PERCENT] [--pct-syskeys PERCENT]
+              [--pct-nav PERCENT] [--pct-majornav PERCENT]
+              [--pct-appswitch PERCENT] [--pct-flip PERCENT]
+              [--pct-anyevent PERCENT] [--pct-pinchzoom PERCENT]
+              [--pct-permission PERCENT]
+              [--pkg-blacklist-file PACKAGE_BLACKLIST_FILE]
+              [--pkg-whitelist-file PACKAGE_WHITELIST_FILE]
+              [--wait-dbg] [--dbg-no-events]
+              [--setup scriptfile] [-f scriptfile [-f scriptfile] ...]
+              [--port port]
+              [-s SEED] [-v [-v] ...]
+              [--throttle MILLISEC] [--randomize-throttle]
+              [--profile-wait MILLISEC]
+              [--device-sleep-time MILLISEC]
+              [--randomize-script]
+              [--script-log]
+              [--bugreport]
+              [--periodic-bugreport]
+              [--permission-target-system]
+              COUNT
+
+** Error: Unknown option: --pac-syskeys
+usage: monkey [-p ALLOWED_PACKAGE [-p ALLOWED_PACKAGE] ...]
+              [-c MAIN_CATEGORY [-c MAIN_CATEGORY] ...]
+              [--ignore-crashes] [--ignore-timeouts]
+              [--ignore-security-exceptions]
+              [--monitoargs: [-p, com.xueqiu.android, --pct-touch, 30, --pct-motion, 20, --pct-nav, 30, --pac-syskeys, 20, -v, --throttle, 500, 400]
+ arg: "-p"
+ arg: "com.xueqiu.android"
+ arg: "--pct-touch"
+ arg: "30"
+ arg: "--pct-motion"
+ arg: "20"
+ arg: "--pct-nav"
+ arg: "30"
+ arg: "--pac-syskeys"
+ arg: "20"
+ arg: "-v"
+ arg: "--throttle"
+ arg: "500"
+ arg: "400"
+data="com.xueqiu.android"
+arg="--pct-touch" mCurArgData="null" mNextArg=3 argwas="--pct-touch" nextarg="30"
+data="30"
+arg="--pct-motion" mCurArgData="null" mNextArg=5 argwas="--pct-motion" nextarg="20"
+data="20"
+arg="--pct-nav" mCurArgData="null" mNextArg=7 argwas="--pct-nav" nextarg="30"
+data="30"
+arg="--pac-syskeys" mCurArgData="null" mNextArg=9 argwas="--pac-syskeys" nextarg="20"
+** Error: Unknown option: --pac-syskeys
+usage: monkey [-p ALLOWED_PACKAGE [-p ALLOWED_PACKAGE] ...]
+              [-c MAIN_CATEGORY [-c MAIN_CATEGORY] ...]
+              [--ignore-crashes] [--ignore-timeouts]
+              [--ignore-security-exceptions]
+              [--monitor-native-crashes] [--ignore-native-crashes]
+              [--kill-process-after-error] [--hprof]
+              [--match-description TEXT]
+              [--pct-touch PERCENT] [--pct-motion PERCENT]
+              [--pct-trackball PERCENT] [--pct-syskeys PERCENT]
+              [--pct-nav PERCENT] [--pct-majornav PERCENT]
+              [--pct-appswitch PERCENT] [--pct-flip PERCENT]
+              [--pct-anyevent PERCENT] [--pct-pinchzoom PERCENT]
+              [--pct-permission PERCENT]
+              [--pkg-blacklist-file PACKAGE_BLACKLIST_FILE]
+              [--pkg-whitelist-file PACKAGE_WHITELIST_FILE]
+              [--wait-dbg] [--dbg-no-events]
+              [--setup scriptfile] [-f scriptfile [-f scriptfile] ...]
+              [--port port]
+              [-s SEED] [-v [-v] ...]
+              [--throttle MILLISEC] [--randomize-throttle]
+              [--profile-wait MILLISEC]
+              [--device-sleep-time MILLISEC]
+              [--randomize-script]
+              [--script-log]
+              [--bugreport]
+              [--periodic-bugreport]
+              [--permission-target-system]
+              COUNT
+
+** Error: Unknown option: --pac-syskeys
+usage: monkey [-p ALLOWED_PACKAGE [-p ALLOWED_PACKAGE] ...]
+              [-c MAIN_CATEGORY [-c MAIN_CATEGORY] ...]
+              [--ignore-crashes] [--ignore-timeouts]
+              [--ignore-security-exceptions]
+              [--monitoargs: [-p, com.xueqiu.android, --pct-touch, 30, --pct-motion, 20, --pct-nav, 30, --pac-syskeys, 20, -v, --throttle, 500, 400]
+ arg: "-p"
+ arg: "com.xueqiu.android"
+ arg: "--pct-touch"
+ arg: "30"
+ arg: "--pct-motion"
+ arg: "20"
+ arg: "--pct-nav"
+ arg: "30"
+ arg: "--pac-syskeys"
+ arg: "20"
+ arg: "-v"
+ arg: "--throttle"
+ arg: "500"
+ arg: "400"
+data="com.xueqiu.android"
+arg="--pct-touch" mCurArgData="null" mNextArg=3 argwas="--pct-touch" nextarg="30"
+data="30"
+arg="--pct-motion" mCurArgData="null" mNextArg=5 argwas="--pct-motion" nextarg="20"
+data="20"
+arg="--pct-nav" mCurArgData="null" mNextArg=7 argwas="--pct-nav" nextarg="30"
+data="30"
+arg="--pac-syskeys" mCurArgData="null" mNextArg=9 argwas="--pac-syskeys" nextarg="20"
+** Error: Unknown option: --pac-syskeys
+usage: monkey [-p ALLOWED_PACKAGE [-p ALLOWED_PACKAGE] ...]
+              [-c MAIN_CATEGORY [-c MAIN_CATEGORY] ...]
+              [--ignore-crashes] [--ignore-timeouts]
+              [--ignore-security-exceptions]
+              [--monitor-native-crashes] [--ignore-native-crashes]
+              [--kill-process-after-error] [--hprof]
+              [--match-description TEXT]
+              [--pct-touch PERCENT] [--pct-motion PERCENT]
+              [--pct-trackball PERCENT] [--pct-syskeys PERCENT]
+              [--pct-nav PERCENT] [--pct-majornav PERCENT]
+              [--pct-appswitch PERCENT] [--pct-flip PERCENT]
+              [--pct-anyevent PERCENT] [--pct-pinchzoom PERCENT]
+              [--pct-permission PERCENT]
+              [--pkg-blacklist-file PACKAGE_BLACKLIST_FILE]
+              [--pkg-whitelist-file PACKAGE_WHITELIST_FILE]
+              [--wait-dbg] [--dbg-no-events]
+              [--setup scriptfile] [-f scriptfile [-f scriptfile] ...]
+              [--port port]
+              [-s SEED] [-v [-v] ...]
+              [--throttle MILLISEC] [--randomize-throttle]
+              [--profile-wait MILLISEC]
+              [--device-sleep-time MILLISEC]
+              [--randomize-script]
+              [--script-log]
+              [--bugreport]
+              [--periodic-bugreport]
+              [--permission-target-system]
+              COUNT
+
+:Monkey: seed=1641828965870 count=400
+:AllowPackage: com.xueqiu.android
+:IncludeCategory: android.intent.category.LAUNCHER
+:IncludeCategory: android.intent.category.MONKEY
+// Event percentages:
+//   0: 30.0%
+//   1: 20.0%
+//   2: 0.0%
+//   3: 0.0%
+//   4: -0.0%
+//   args: [-p, com.xueqiu.android, --pct-touch, 30, --pct-motion, 20, --pct-nav, 30, --pct-syskeys, 20, -v, --throttle, 500, 400]
+ arg: "-p"
+ arg: "com.xueqiu.android"
+ arg: "--pct-touch"
+ arg: "30"
+ arg: "--pct-motion"
+ arg: "20"
+ arg: "--pct-nav"
+ arg: "30"
+ arg: "--pct-syskeys"
+ arg: "20"
+ arg: "-v"
+ arg: "--throttle"
+ arg: "500"
+ arg: "400"
+data="com.xueqiu.android"
+arg="--pct-touch" mCurArgData="null" mNextArg=3 argwas="--pct-touch" nextarg="30"
+dat:Sending Touch (ACTION_DOWN): 0:(626.0,858.0)
+:Sending Touch (ACTION_UP): 0:(624.72614,854.3816)
+    // Allowing start of Intent { cmp=com.xueqiu.android/.common.MainActivity } in package com.xueqiu.android
+    // activityResuming(com.xueqiu.android)
+    // activityResuming(com.xueqiu.android)
+:Sending Touch (ACTION_DOWN): 0:(267.0,1832.0)
+:Sending Touch (ACTION_UP): 0:(269.20313,1822.5035)
+:Sending Touch (ACTION_DOWN): 0:(1105.0,382.0)
+:Sending Touch (ACTION_UP): 0:(1107.2494,377.6457)
+:Sending Touch (ACTION_DOWN): 0:(5.0,748.0)
+:Sending Touch (ACTION_UP): 0:(31.597145,741.9056)
+:Sending Touch (ACTION_DOWN): 0:(835.0,1137.0)
+:Sending Touch (ACTION_UP): 0:(784.286,1178.6481)
+:Sending Touch (ACTION_DOWN): 0:(459.0,693.0)
+:Sending Touch (ACTION_UP): 0:(433.7716,660.39105)
+:Sending Touch (ACTION_DOWN): 0:(86.0,1370.0)
+:Sending Touch (ACTION_UP): 0:(216.07072,1395.6353)
+:Sending Touch (ACTION_DOWN): 0:(561.0,1636.0)
+:Sending Touch (ACTION_UP): 0:(567.60236,1640.1079)
+:Sending Touch (ACTION_DOWN): 0:(752.0,1569.0)
+:Sending Touch (ACTION_UP): 0:(751.538,1579.8407)
+:Sending Touch (ACTION_DOWN): 0:(434.0,810.0)
+:Sending Touch (ACTION_UP): 0:(416.77408,827.014)
+:Sending Touch (ACTION_DOWN): 0:(335.0,464.0)
+:Sending Touch (ACTION_UP): 0:(352.71405,471.04233)
+:Sending Touch (ACTION_DOWN): 0:(387.0,226.0)
+:Sending Touch (ACTION_UP): 0:(390.0565,215.20761)
+:Sending Touch (ACTION_DOWN): 0:(962.0,58.0)
+:Sending Touch (ACTION_UP): 0:(971.92584,39.03775)
+:Sending Touch (ACTION_DOWN): 0:(580.0,772.0)
+:Sending Touch (ACTION_UP): 0:(581.5438,789.2201)
+:Sending Touch (ACTION_DOWN): 0:(520.0,1017.0)
+:Sending Touch (ACTION_UP): 0:(522.5733,1019.90625)
+:Sending Touch (ACTION_DOWN): 0:(887.0,49.0)
+:Sending Touch (ACTION_UP): 0:(887.1704,51.51398)
+:Sending Touch (ACTION_DOWN): 0:(328.0,1807.0)
+:Sending Touch (ACTION_UP): 0:(324.59598,1807.0178)
+:Sending Touch (ACTION_DOWN): 0:(135.0,1829.0)
+:Sending Touch (ACTION_UP): 0:(133.81473,1839.6971)
+:Sending Touch (ACTION_DOWN): 0:(467.0,1427.0)
+    //[calendar_time:2022-01-08 12:20:36.877  system_uptime:2783569]
+    // Sending event #100
+:Sending Touch (ACTION_UP): 0:(415.04443,1451.1812)
+:Sending Touch (ACTION_DOWN): 0:(852.0,1170.0)
+:Sending Touch (ACTION_UP): 0:(856.04474,1218.8691)
+:Sending Touch (ACTION_DOWN): 0:(871.0,636.0)
+:Sending Touch (ACTION_UP): 0:(869.8647,626.0502)
+:Sending Touch (ACTION_DOWN): 0:(400.0,544.0)
+:Sending Touch (ACTION_UP): 0:(411.6966,545.8706)
+:Sending Touch (ACTION_DOWN): 0:(1078.0,1876.0)
+:Sending Touch (ACTION_UP): 0:(1074.5435,1857.8359)
+:Sending Touch (ACTION_DOWN): 0:(1041.0,1840.0)
+:Sending Touch (ACTION_UP): 0:(1047.4741,1841.3984)
+:Sending Touch (ACTION_DOWN): 0:(367.0,34.0)
+:Sending Touch (ACTION_UP): 0:(367.2471,44.092655)
+:Sending Touch (ACTION_DOWN): 0:(267.0,499.0)
+:Sending Touch (ACTION_UP): 0:(267.5932,485.12054)
+:Sending Touch (ACTION_DOWN): 0:(560.0,466.0)
+:Sending Touch (ACTION_UP): 0:(575.06384,560.50214)
+:Sending Touch (ACTION_DOWN): 0:(551.0,1318.0)
+:Sending Touch (ACTION_UP): 0:(663.7285,1365.1459)
+:Sending Touch (ACTION_DOWN): 0:(546.0,492.0)
+:Sending Touch (ACTION_UP): 0:(551.59753,485.9647)
+:Sending Touch (ACTION_DOWN): 0:(510.0,606.0)
+:Sending Touch (ACTION_UP): 0:(509.822,602.719)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.mumu.launcher/.Launcher } in package com.mumu.launcher
+:Sending Touch (ACTION_DOWN): 0:(605.0,697.0)
+:Sending Touch (ACTION_UP): 0:(594.74554,691.0565)
+:Sending Touch (ACTION_DOWN): 0:(692.0,1673.0)
+:Sending Touch (ACTION_UP): 0:(693.2726,1668.0195)
+:Sending Touch (ACTION_DOWN): 0:(1059.0,1009.0)
+:Sending Touch (ACTION_UP): 0:(1049.1174,1005.9195)
+:Sending Touch (ACTION_DOWN): 0:(533.0,1530.0)
+:Sending Touch (ACTION_UP): 0:(533.00616,1534.7986)
+:Sending Touch (ACTION_DOWN): 0:(1054.0,1948.0)
+:Sending Touch (ACTION_UP): 0:(1018.93677,1944.7625)
+:Sending Touch (ACTION_DOWN): 0:(1000.0,1426.0)
+:Sending Touch (ACTION_UP): 0:(926.4816,1470.9456)
+    //[calendar_time:2022-01-08 12:20:53.737  system_uptime:2800429]
+    // Sending event #200
+:Sending Touch (ACTION_DOWN): 0:(576.0,1301.0)
+:Sending Touch (ACTION_UP): 0:(617.55066,1415.7445)
+:Sending Touch (ACTION_DOWN): 0:(259.0,395.0)
+:Sending Touch (ACTION_UP): 0:(265.16208,397.71582)
+:Sending Touch (ACTION_DOWN): 0:(652.0,904.0)
+:Sending Touch (ACTION_UP): 0:(642.84814,913.3494)
+:Sending Touch (ACTION_DOWN): 0:(1077.0,1940.0)
+:Sending Touch (ACTION_UP): 0:(1062.48,1931.1132)
+:Sending Touch (ACTION_DOWN): 0:(945.0,109.0)
+:Sending Touch (ACTION_UP): 0:(948.0028,114.22127)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=mumu://launcher/search?hint=  cmp=com.mumu.store/.search.LauncherSearchActivity } in package com.mumu.store
+:Sending Touch (ACTION_DOWN): 0:(366.0,1375.0)
+:Sending Touch (ACTION_UP): 0:(352.45563,1383.9166)
+:Sending Touch (ACTION_DOWN): 0:(75.0,35.0)
+:Sending Touch (ACTION_UP): 0:(73.782845,46.320084)
+:Sending Touch (ACTION_DOWN): 0:(836.0,1682.0)
+:Sending Touch (ACTION_UP): 0:(853.35156,1685.2606)
+:Sending Touch (ACTION_DOWN): 0:(890.0,778.0)
+:Sending Touch (ACTION_UP): 0:(889.5638,779.337)
+:Sending Touch (ACTION_DOWN): 0:(1002.0,1212.0)
+:Sending Touch (ACTION_UP): 0:(1021.3002,1210.3014)
+:Sending Touch (ACTION_DOWN): 0:(1120.0,349.0)
+:Sending Touch (ACTION_UP): 0:(997.69116,269.67874)
+:Sending Touch (ACTION_DOWN): 0:(224.0,1096.0)
+:Sending Touch (ACTION_UP): 0:(281.29663,1137.1001)
+:Sending Touch (ACTION_DOWN): 0:(251.0,1896.0)
+:Sending Touch (ACTION_UP): 0:(240.58243,1897.1964)
+:Sending Touch (ACTION_DOWN): 0:(833.0,1387.0)
+:Sending Touch (ACTION_UP): 0:(812.2662,1389.5748)
+:Sending Touch (ACTION_DOWN): 0:(835.0,383.0)
+:Sending Touch (ACTION_UP): 0:(874.426,424.49686)
+:Sending Touch (ACTION_DOWN): 0:(386.0,1560.0)
+    //[calendar_time:2022-01-08 12:21:09.454  system_uptime:2816146]
+    // Sending event #300
+:Sending Touch (ACTION_UP): 0:(479.1592,1598.306)
+:Sending Touch (ACTION_DOWN): 0:(455.0,1379.0)
+:Sending Touch (ACTION_UP): 0:(462.15628,1378.4017)
+:Sending Touch (ACTION_DOWN): 0:(1102.0,526.0)
+:Sending Touch (ACTION_UP): 0:(1112.9021,504.09967)
+:Sending Touch (ACTION_DOWN): 0:(725.0,113.0)
+:Sending Touch (ACTION_UP): 0:(673.46716,81.9572)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=mumu://launcher/search?hint=  cmp=com.mumu.store/.search.LauncherSearchActivity } in package com.mumu.store
+:Sending Touch (ACTION_DOWN): 0:(307.0,1159.0)
+:Sending Touch (ACTION_UP): 0:(304.02493,1146.3807)
+:Sending Touch (ACTION_DOWN): 0:(752.0,510.0)
+:Sending Touch (ACTION_UP): 0:(755.9905,514.3689)
+:Sending Touch (ACTION_DOWN): 0:(649.0,1401.0)
+:Sending Touch (ACTION_UP): 0:(642.93335,1402.5981)
+:Sending Touch (ACTION_DOWN): 0:(429.0,1072.0)
+:Sending Touch (ACTION_UP): 0:(426.92902,1062.9326)
+:Sending Touch (ACTION_DOWN): 0:(156.0,1802.0)
+:Sending Touch (ACTION_UP): 0:(167.81448,1801.0865)
+:Sending Touch (ACTION_DOWN): 0:(836.0,1114.0)
+:Sending Touch (ACTION_UP): 0:(843.4566,1123.8362)
+:Sending Touch (ACTION_DOWN): 0:(278.0,1357.0)
+:Sending Touch (ACTION_UP): 0:(281.186,1349.4594)
+:Sending Touch (ACTION_DOWN): 0:(225.0,822.0)
+:Sending Touch (ACTION_UP): 0:(210.12508,817.8266)
+:Sending Touch (ACTION_DOWN): 0:(408.0,1636.0)
+:Sending Touch (ACTION_UP): 0:(406.28897,1640.3523)
+:Sending Touch (ACTION_DOWN): 0:(625.0,1313.0)
+:Sending Touch (ACTION_UP): 0:(634.7918,1315.3041)
+:Sending Touch (ACTION_DOWN): 0:(338.0,1473.0)
+:Sending Touch (ACTION_UP): 0:(343.53607,1461.9929)
+:Sending Touch (ACTION_DOWN): 0:(356.0,888.0)
+:Sending Touch (ACTION_UP): 0:(356.03864,883.3657)
+:Sending Touch (ACTION_DOWN): 0:(15.0,405.0)
+:Sending Touch (ACTION_UP): 0:(0.0,418.3013)
+:Sending Touch (ACTION_DOWN): 0:(18.0,1499.0)
+:Sending Touch (ACTION_UP): 0:(16.222963,1498.605)
+:Sending Touch (ACTION_DOWN): 0:(1068.0,480.0)
+:Sending Touch (ACTION_UP): 0:(1072.2521,468.0142)
+:Sending Touch (ACTION_DOWN): 0:(547.0,1340.0)
+:Sending Touch (ACTION_UP): 0:(542.9477,1334.7023)
+:Sending Touch (ACTION_DOWN): 0:(787.0,1554.0)
+:Sending Touch (ACTION_UP): 0:(791.9554,1556.4567)
+:Sending Touch (ACTION_DOWN): 0:(576.0,1927.0)
+:Sending Touch (ACTION_UP): 0:(571.505,1920.4584)
+:Sending Touch (ACTION_DOWN): 0:(698.0,1956.0)
+:Sending Touch (ACTION_UP): 0:(621.41266,2000.0)
+:Sending Touch (ACTION_DOWN): 0:(660.0,679.0)
+:Sending Touch (ACTION_UP): 0:(672.9901,679.6259)
+Events injected: 400
+:Sending rotation degree=0, persist=false
+:Dropped: keys=0 pointers=0 trackballs=0 flips=0 rotations=0
+## Network stats: elapsed time=73444ms (0ms mobile, 0ms wifi, 73444ms not connected)
+// Monkey finished
+ Touch (ACTION_UP): 0:(380.30014,1302.7245)
+:Sending Touch (ACTION_DOWN): 0:(242.0,1644.0)
+:Sending Touch (ACTION_UP): 0:(251.43317,1617.5858)
+:Sending Touch (ACTION_DOWN): 0:(749.0,1808.0)
+:Sending Touch (ACTION_UP): 0:(745.90704,1824.8973)
+:Sending Touch (ACTION_DOWN): 0:(322.0,1586.0)
+:Sending Touch (ACTION_UP): 0:(324.24518,1588.1372)
+:Sending Touch (ACTION_DOWN): 0:(343.0,1746.0)
+:Sending Touch (ACTION_UP): 0:(426.38388,1788.2446)
+:Sending Touch (ACTION_DOWN): 0:(355.0,1195.0)
+:Sending Touch (ACTION_UP): 0:(350.4728,1195.9905)
+:Sending Touch (ACTION_DOWN): 0:(597.0,2040.0)
+:Sending Touch (ACTION_UP): 0:(590.96893,2043.1898)
+:Sending Touch (ACTION_DOWN): 0:(763.0,1424.0)
+    //[calendar_time:2022-01-08 12:21:09.397  system_uptime:92496634]
+    // Sending event #300
+:Sending Touch (ACTION_UP): 0:(770.0046,1439.5579)
+:Sending Touch (ACTION_DOWN): 0:(521.0,1515.0)
+:Sending Touch (ACTION_UP): 0:(512.73035,1524.3854)
+:Sending Touch (ACTION_DOWN): 0:(266.0,1840.0)
+:Sending Touch (ACTION_UP): 0:(253.56003,1816.4231)
+:Sending Touch (ACTION_DOWN): 0:(432.0,2086.0)
+:Sending Touch (ACTION_UP): 0:(494.07428,2047.4492)
+:Sending Touch (ACTION_DOWN): 0:(206.0,543.0)
+:Sending Touch (ACTION_UP): 0:(249.77222,514.0144)
+:Sending Touch (ACTION_DOWN): 0:(837.0,132.0)
+:Sending Touch (ACTION_UP): 0:(835.56696,127.32352)
+:Sending Touch (ACTION_DOWN): 0:(1064.0,342.0)
+:Sending Touch (ACTION_UP): 0:(1059.644,338.77826)
+:Sending Touch (ACTION_DOWN): 0:(835.0,940.0)
+:Sending Touch (ACTION_UP): 0:(835.00037,943.3776)
+:Sending Touch (ACTION_DOWN): 0:(203.0,343.0)
+:Sending Touch (ACTION_UP): 0:(221.9249,291.46967)
+:Sending Touch (ACTION_DOWN): 0:(320.0,1756.0)
+:Sending Touch (ACTION_UP): 0:(318.67084,1765.7384)
+:Sending Touch (ACTION_DOWN): 0:(520.0,1412.0)
+:Sending Touch (ACTION_UP): 0:(499.68164,1325.1818)
+:Sending Touch (ACTION_DOWN): 0:(325.0,1206.0)
+:Sending Touch (ACTION_UP): 0:(344.84973,1211.6924)
+:Sending Touch (ACTION_DOWN): 0:(700.0,849.0)
+:Sending Touch (ACTION_UP): 0:(714.7365,849.77844)
+:Sending Touch (ACTION_DOWN): 0:(89.0,1428.0)
+:Sending Touch (ACTION_UP): 0:(141.72095,1455.694)
+:Sending Touch (ACTION_DOWN): 0:(398.0,1070.0)
+:Sending Touch (ACTION_UP): 0:(395.51868,1072.0724)
+:Sending Touch (ACTION_DOWN): 0:(222.0,1574.0)
+:Sending Touch (ACTION_UP): 0:(221.50327,1564.4215)
+:Sending Touch (ACTION_DOWN): 0:(137.0,1088.0)
+:Sending Touch (ACTION_UP): 0:(124.579575,1094.0208)
+:Sending Touch (ACTION_DOWN): 0:(467.0,1253.0)
+Events injected: 400
+:Sending rotation degree=0, persist=false
+:Dropped: keys=0 pointers=0 trackballs=0 flips=0 rotations=0
+## Network stats: elapsed time=70017ms (0ms mobile, 0ms wifi, 70017ms not connected)
+// Monkey finished
