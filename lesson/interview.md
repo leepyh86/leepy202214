@@ -51,7 +51,52 @@
   - 三剑客：grep sed awk
   - 三剑客nginx的日志分析实战
   - bash编程 写一个抽奖程序实战
-   
+  -
+    -读出文件
+    -- #！/bin/bash
+    random(){
+       ##取出了所有的人
+      local  seeds = `while read line;do echo $line; <$tmp.txt `
+      local count = 0
+      while [[ $count != 1 ]];do
+        #从seeds中筛选一部分人出来
+          seeds=`for seed in $seeds;do (($RANDOM%2)) && echo $seed;done`
+          count=`echo "$seeds" | wc -l`
+      done
+      echo $seeds
+    }
+
+    result() {
+      ####从随机的一个结果中遍历10个出来
+      for i in {1..10};do
+        tmp=`random`
+        while [[ `is_repeat $tmp` == 0 ]];do
+          tmp=`random`
+          done
+          arrs[$i]=$tmp
+      done
+      echo ${arrs[@]}
+    }
+
+    is_repeat(){
+      for arr in ${arrs[@]};do
+          if [[ $arr == $1 ]];then
+            echo 0;
+            return 0;
+          fi
+      done
+      echo 1;
+    }
+
+
+  - 分析nginx日志文件
+  - cat access.log | awk '{print $1}' | sort 排序 | uniq去重 -c | sort -nr 倒续 | head -3
+  - cat access.log| grep -o '^[0-9]*.[0-9]*.[0-9]*.[0-9]*' | sort | uniq -c | sort -nr | head -3
+  - cat access.log | awk '$9~/404|500/' | wc -l
+
+  
+
+
 
 
 

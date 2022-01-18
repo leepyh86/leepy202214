@@ -47,15 +47,13 @@ class TestFixture:
 
 
 
-
-    ###奥运会打靶求值 iterable iter next wrap 装饰器 迭代器 生成器
-
 ###python语法：高阶函数 迭代器生成器装饰器
-###多线程编程
 ###python的库math urllib.request
 ###python面向对象编程
 
-
+###pytest搜集日志的钩子事件:conftest.py-pytest_collection_modifyitems
+###多线程编程
+###allsure测试报告/unittest-htmlRunner
 
 
 

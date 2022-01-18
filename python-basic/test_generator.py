@@ -66,4 +66,45 @@ class TestGenerator:
         avg1 = avg_g.send(120)
         print(avg1)
 
-        ####迭代器next send方法
+
+
+
+
+
+
+### def my_decorator(f)
+#   def fn(*args **kwargs)
+    ###扩展的逻辑 
+   # return f(*args **kwargs)
+   #return fn
+#####
+
+#装饰器 将函数作为参数名传递 动态扩展函数的功能 
+
+ ####迭代器next send方法\
+
+
+ 
+def singleton (cls, *args, **kwargs):
+
+    instances = {}
+    def get_instance (*args, **kwargs):
+        if cls not in instances:
+            instances[cls] = cls(*args, **kwargs)
+        return instances[cls]
+    return get_instance
+ 
+
+#创建一个带有装饰器的类
+
+@singleton
+
+class Student:
+    def __init__(self, name, age):
+        self.name = name
+        self.age = age
+student = Student('jiang', 25)
+
+print(student)
+
+
